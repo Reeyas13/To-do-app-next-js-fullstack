@@ -5,6 +5,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 First, run the development server:
 
 ```bash
+create .env file and add yout MONGODB_URI
 npm run dev
 # or
 yarn dev
